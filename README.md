@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cmrohityadav
+- 👋 Hi, I’m Rohit Yadav
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning C++ DSA
 
